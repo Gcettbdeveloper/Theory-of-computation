@@ -1,4 +1,4 @@
 # Theory-of-computation
 
 
-* [Introduction](Theory-of-computation/blob/main/Introduction/README.md)
+* [Introduction](Theory-of-computation/Introduction/README.md)
